@@ -118,4 +118,9 @@ contains the standalone parser and row adapter.
 This is a maintained menu clone, not an automatic patch to the installed menu.
 Upstream menu changes must be reviewed and merged here. Other Omarchy versions
 are unverified; disable the plugin if a shell update changes its interfaces.
-The original MIT license is retained in [LICENSE](LICENSE).
+
+## License
+
+Copyright (c) 2026 Gareth Paul for the calculator code and modifications.
+The Omarchy-derived menu code retains David Heinemeier Hansson's copyright
+notice. Both are covered by the [MIT license](LICENSE).
