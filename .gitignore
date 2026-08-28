@@ -1,0 +1,6 @@
+*.log
+*.png
+*.webm
+.env*
+node_modules/
+__pycache__/
